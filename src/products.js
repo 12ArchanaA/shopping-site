@@ -1,6 +1,6 @@
 import Product1 from "./assets/product1.jpg";
 import Product2 from "./assets/product2.jpg";
-import Product3 from "./assets/product3.jfif";
+import Product3 from "./assets/product3.jpg";
 import Product4 from "./assets/product4.webp";
 import Product5 from "./assets/product5.jpg";
 import Product6 from "./assets/product6.webp";
@@ -32,7 +32,7 @@ export const PRODUCTS = [
     price: 2499,
     productImage: Product4,
   },
-
+  
   {
     id: 6,
     productName: "Apple Magic Mouse ",
