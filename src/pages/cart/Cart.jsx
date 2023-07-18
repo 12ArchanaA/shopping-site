@@ -26,7 +26,7 @@ const Cart = () => {
           <div className="checkout">
             <p>Total Amount: ₹{totalAmount}</p>
             <div className="checkout-buttons">
-              <button onClick={() => navigate("/")}>Continue Shopping</button>
+              <button onClick={() => navigate("/shopping-site")}>Continue Shopping</button>
               <button>Buy</button>
             </div>
           </div>{" "}
